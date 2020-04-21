@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/julio/Disco Duro/Gitlab/appexponentes/js/scripts.js'
+let g:netrw_dirhist_2='/home/julio/.pki'
+let g:netrw_dirhist_3='/home/julio/.config/Code/User'
+let g:netrw_dirhist_4='/home/julio/Disco Duro/Para server/tiptap/index.vue'
+let g:netrw_dirhist_5='/home/julio/.zsh'
